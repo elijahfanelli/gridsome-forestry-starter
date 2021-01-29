@@ -32,8 +32,8 @@ fields:
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Elijah
   label: Author
-  default: Nichlas W. Andersen
+  default: Elijah
 pages:
 - journal/test-journal.md
