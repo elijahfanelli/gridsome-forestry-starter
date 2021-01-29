@@ -1,7 +1,10 @@
 ---
 date: 2021-01-29
-author: Nichlas W. Andersen
+author: Elijah
 title: Test journal
 excerpt: A test
 
 ---
+Blah blah 
+
+Blah 
