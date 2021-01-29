@@ -5,6 +5,6 @@ title: Test journal
 excerpt: A test
 
 ---
-Blah blah 
+Blah blah
 
-Blah 
+Blah. Test 124
